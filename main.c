@@ -12,5 +12,7 @@ int main()
     printf("num2 = %f\n", num2);
     printf("grade = %c\n\n", grade);
 
+    printf("added a sample");
+
     return 0;
 }
