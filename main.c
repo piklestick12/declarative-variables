@@ -14,5 +14,7 @@ int main()
 
     printf("added a sample");
 
+    printf("added another changes");
+
     return 0;
 }
